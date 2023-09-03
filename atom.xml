@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hi !</title>
+  
+  <subtitle>如你所见，这是一个普通的博客</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-09-02T13:24:49.665Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>生🦪蚝</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这是我的第一次，你要好好珍惜</title>
+    <link href="http://example.com/2023/09/02/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%EF%BC%8C%E4%BD%A0%E8%A6%81%E5%A5%BD%E5%A5%BD%E7%8F%8D%E6%83%9C/"/>
+    <id>http://example.com/2023/09/02/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%EF%BC%8C%E4%BD%A0%E8%A6%81%E5%A5%BD%E5%A5%BD%E7%8F%8D%E6%83%9C/</id>
+    <published>2023-09-02T12:45:01.000Z</published>
+    <updated>2023-09-02T13:24:49.665Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="如你所见"><a href="#如你所见" class="headerlink" title="如你所见"></a>如你所见</h1><h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2><p>博客，这个名词，可能对于21世纪的大众中文互联网来说有点落后，陌生了。<br>但在墙外还是很多博主都会用一个博客来介绍自己‚分享生活。<br>我写的时候还听着梦龙的歌，还不错，真的。  </p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1960360536&auto=0&height=66"></iframe><p>基于hexo开发的，当然模板是ayer，哦对了我在这里要感谢一个人，他叫沈宇，是杭州的一名程序员。这个模板就是它开源在GitHub上的。这让我省去了很多时间。谢谢.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;如你所见&quot;&gt;&lt;a href=&quot;#如你所见&quot; class=&quot;headerlink&quot; title=&quot;如你所见&quot;&gt;&lt;/a&gt;如你所见&lt;/h1&gt;&lt;h2 id=&quot;这是我的第一篇文章&quot;&gt;&lt;a href=&quot;#这是我的第一篇文章&quot; class=&quot;headerlink&quot; title=</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

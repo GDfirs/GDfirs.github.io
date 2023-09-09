@@ -11,7 +11,7 @@
         name="viewport"
         content="width=device-width, initial-scale=1, maximum-scale=1"
       />
-      <title> Hi !</title>
+      <title> ⌈ 豪 ⌋ の 小 博客</title>
   <meta name="generator" content="hexo-theme-ayer">
       
       <link rel="shortcut icon" href="/favicon.ico" />
@@ -41,7 +41,7 @@
           font-size: 1.6rem;
         }
       </style>
-    <link rel="alternate" href="/atom.xml" title="Hi !" type="application/atom+xml">
+    <link rel="alternate" href="/atom.xml" title="⌈ 豪 ⌋ の 小 博客" type="application/atom+xml">
 </head>
   </html>
 </html>
@@ -50,17 +50,9 @@
 <body>
   <div id="app">
     
-      <canvas class="fireworks"></canvas>
-      <style>
-        .fireworks {
-          position: fixed;
-          left: 0;
-          top: 0;
-          z-index: 99999;
-          pointer-events: none;
-        }
-      </style>
       
+      <canvas width="1777" height="841"
+        style="position: fixed; left: 0px; top: 0px; z-index: 99999; pointer-events: none;"></canvas>
       
     <main class="content on">
       
@@ -71,7 +63,7 @@
       <img src="/images/cover1.jpg" alt="image frame" />
     </div>
     <div class="cover-inner text-center text-white">
-      <h1><a href="/">Hi !</a></h1>
+      <h1><a href="/">⌈ 豪 ⌋ の 小 博客</a></h1>
       <div id="subtitle-box">
         
         <span id="subtitle"></span>
@@ -136,19 +128,11 @@
   
   
   
-
 <div class="notice" style="margin-top:50px">
     <i class="ri-heart-fill"></i>
-    <div class="notice-content" id="broad"></div>
+    <div class="notice-content">-珍惜一切-</div>
 </div>
-<script type="text/javascript">
-    fetch('https://v1.hitokoto.cn')
-        .then(response => response.json())
-        .then(data => {
-            document.getElementById("broad").innerHTML = data.hitokoto;
-        })
-        .catch(console.error)
-</script>
+
 
 <style>
     .notice {
@@ -278,7 +262,7 @@
 <nav class="navbar">
   
   <div class="logo">
-    <a href="/"><img src="/images/ayer-side.svg" alt="Hi !"></a>
+    <a href="/"><img src="/images/ayer-side.svg" alt="⌈ 豪 ⌋ の 小 博客"></a>
   </div>
   
   <ul class="nav nav-main">
@@ -300,11 +284,7 @@
     </li>
     
     <li class="nav-item">
-      <a class="nav-item-link" href="/tags/%E6%97%85%E8%A1%8C/">旅行</a>
-    </li>
-    
-    <li class="nav-item">
-      <a class="nav-item-link" href="/null">摄影</a>
+      <a class="nav-item-link" href="/photo">摄影</a>
     </li>
     
     <li class="nav-item">
@@ -312,7 +292,7 @@
     </li>
     
     <li class="nav-item">
-      <a class="nav-item-link" href="/2019/about">关于我</a>
+      <a class="nav-item-link" href="/2023/about">关于我</a>
     </li>
     
   </ul>
@@ -325,10 +305,6 @@
         <i class="ri-search-line"></i>
       </a>
       
-      
-      <a class="nav-item-link" target="_blank" href="/atom.xml" title="RSS Feed">
-        <i class="ri-rss-line"></i>
-      </a>
       
     </li>
   </ul>
@@ -489,12 +465,10 @@
 
 <!-- ClickBoom1 -->
 
-<script src="https://cdn.staticfile.org/animejs/3.2.1/anime.min.js"></script>
-
-<script src="/js/clickBoom1.js"></script>
- 
 <!-- ClickBoom2 -->
-
+ 
+<script src="/js/clickBoom2.js"></script>
+ 
 <!-- CodeCopy -->
  
 <link rel="stylesheet" href="/css/clipboard.css">

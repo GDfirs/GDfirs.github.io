@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hi !</title>
+  <title>⌈ 豪 ⌋ の 小 博客</title>
   
   <subtitle>如你所见，这是一个普通的博客</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://gdfirs.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://gdfirs.github.io/"/>
   <updated>2023-09-09T08:52:32.723Z</updated>
-  <id>http://example.com/</id>
+  <id>https://gdfirs.github.io/</id>
   
   <author>
     <name>生🦪蚝</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>这是我的第一次，你要好好珍惜</title>
-    <link href="http://example.com/2023/09/02/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%EF%BC%8C%E4%BD%A0%E8%A6%81%E5%A5%BD%E5%A5%BD%E7%8F%8D%E6%83%9C/"/>
-    <id>http://example.com/2023/09/02/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%EF%BC%8C%E4%BD%A0%E8%A6%81%E5%A5%BD%E5%A5%BD%E7%8F%8D%E6%83%9C/</id>
+    <link href="https://gdfirs.github.io/2023/09/02/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%EF%BC%8C%E4%BD%A0%E8%A6%81%E5%A5%BD%E5%A5%BD%E7%8F%8D%E6%83%9C/"/>
+    <id>https://gdfirs.github.io/2023/09/02/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%EF%BC%8C%E4%BD%A0%E8%A6%81%E5%A5%BD%E5%A5%BD%E7%8F%8D%E6%83%9C/</id>
     <published>2023-09-02T12:45:01.000Z</published>
     <updated>2023-09-09T08:52:32.723Z</updated>
     
